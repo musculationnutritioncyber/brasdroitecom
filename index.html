@@ -234,19 +234,20 @@
   .mission h3{font-size:17px}
   .mission p{font-size:14px;color:var(--text-muted)}
 
-  /* ===== JOURNEE TYPE ===== */
-  .day{max-width:820px;margin:0 auto;display:flex;flex-direction:column;gap:0}
-  .day-row{
-    display:grid;grid-template-columns:100px 1fr;gap:24px;
-    padding:20px 0;border-bottom:1px solid var(--border-soft);
+  /* ===== PRESENTATION FONDATEUR ===== */
+  .founder{
+    display:grid;grid-template-columns:340px 1fr;gap:48px;align-items:center;
+    max-width:960px;margin:0 auto;
   }
-  .day-row:last-child{border-bottom:0}
-  .day-time{
-    font-weight:700;font-size:14px;color:var(--primary-dark);
-    letter-spacing:.02em;padding-top:2px;
+  .founder-photo{
+    position:relative;aspect-ratio:1/1;border-radius:var(--radius-lg);
+    overflow:hidden;background:var(--bg-tint);
+    border:1px solid #e0e7ff;
+    box-shadow:0 24px 50px -22px rgba(79,70,229,.45);
   }
-  .day-body h3{font-size:16px;margin-bottom:4px}
-  .day-body p{font-size:14.5px;color:var(--text-muted)}
+  .founder-photo img{width:100%;height:100%;object-fit:cover;object-position:center 22%}
+  .founder-text h2{font-size:clamp(24px,3vw,34px)}
+  .founder-text p{margin-top:16px;font-size:16.5px}
 
   /* ===== PROFIL ===== */
   .profile{display:grid;grid-template-columns:1fr 1fr;gap:20px}
@@ -383,11 +384,11 @@
     .timeline::before{display:none}
     .final-cta{padding:48px 24px;border-radius:18px}
     section{padding:64px 0}
+    .founder{grid-template-columns:1fr;gap:32px;max-width:480px}
   }
   @media (max-width: 520px){
     .grid-4,.offer,.timeline{grid-template-columns:1fr}
     .nav .btn{padding:10px 14px;font-size:14px}
-    .day-row{grid-template-columns:1fr;gap:6px}
     .nope{padding:24px 20px}
   }
 </style>
@@ -410,7 +411,7 @@
   <div class="container hero-inner">
     <span class="eyebrow"><span class="dot"></span> On recrute — poste ouvert maintenant</span>
     <h1 style="margin-top:18px;font-size:clamp(28px,3.8vw,44px);letter-spacing:-.025em">
-      <strong>Bras droit e-commerce</strong> — tu travailles directement avec le fondateur d'une marque US en pleine croissance. Plein temps, 100% remote, long terme.
+      <strong>Bras droit e-commerce</strong> — pour une marque US en pleine croissance. Plein temps, 100% remote, long terme.
     </h1>
 
     <!-- Vidéo de présentation : colle l'URL d'embed Loom dans LOOM_EMBED_URL en bas de page pour l'afficher -->
@@ -555,42 +556,26 @@
   </div>
 </section>
 
-<!-- ============ JOURNEE TYPE ============ -->
+<!-- ============ PRESENTATION FONDATEUR ============ -->
 <section class="alt-bg">
   <div class="container">
-    <div class="section-head" style="margin:0 auto 40px;text-align:center;max-width:680px">
-      <span class="eyebrow">Concrètement</span>
-      <h2 style="margin-top:12px">À quoi ressemble une journée.</h2>
-      <p>Pour que tu saches vraiment dans quoi tu mets les pieds.</p>
-    </div>
-    <div class="day">
-      <div class="day-row">
-        <div class="day-time">Le matin</div>
-        <div class="day-body">
-          <h3>Tu ouvres les chiffres</h3>
-          <p>Ventes de la veille, performance des campagnes, alertes de stock. Tu prépares le point du jour et tu remontes ce qui mérite une décision.</p>
-        </div>
+    <div class="founder">
+      <div class="founder-photo">
+        <img src="founder.jpg" alt="Le fondateur" onerror="this.closest('.founder-photo').style.display='none'" />
       </div>
-      <div class="day-row">
-        <div class="day-time">En milieu de journée</div>
-        <div class="day-body">
-          <h3>Tu fais avancer les dossiers</h3>
-          <p>Un lancement produit à préparer, des créas à briefer, une fiche à corriger, un fournisseur à relancer. Tu passes d'un sujet à l'autre et tu tiens les délais.</p>
-        </div>
-      </div>
-      <div class="day-row">
-        <div class="day-time">L'après-midi</div>
-        <div class="day-body">
-          <h3>Tu débloques l'équipe</h3>
-          <p>Un designer attend un brief, le support a un cas compliqué, une campagne a besoin d'un visuel. Tu réponds, tu arbitres, tu fais circuler l'information.</p>
-        </div>
-      </div>
-      <div class="day-row">
-        <div class="day-time">En continu</div>
-        <div class="day-body">
-          <h3>Tu automatises ce qui se répète</h3>
-          <p>Avec l'IA et Claude Code, ce que tu fais à la main aujourd'hui, tu le transformes en process qui tourne tout seul demain. C'est là que tu prends de la valeur.</p>
-        </div>
+      <div class="founder-text">
+        <span class="eyebrow">Avec qui tu vas travailler</span>
+        <h2 style="margin-top:12px">Un mot sur moi.</h2>
+        <p class="muted">
+          Je travaille en ligne depuis huit ans. Ça fait plus de six ans que je suis à temps plein
+          dans le e-commerce, et aujourd'hui je pilote une marque qui vend sur le marché américain,
+          avec une équipe répartie entre l'Europe et l'Asie.
+        </p>
+        <p class="muted">
+          Tu ne passeras pas par trois intermédiaires : c'est avec moi que tu échanges au quotidien,
+          c'est moi qui te forme, et c'est moi qui te donnerai de plus en plus de terrain à mesure
+          que tu prends tes marques.
+        </p>
       </div>
     </div>
   </div>
@@ -611,7 +596,7 @@
           <li><span class="tick">✓</span><div><b>Tu parles français couramment</b> <span>— c'est ta langue de travail avec le fondateur.</span></div></li>
           <li><span class="tick">✓</span><div><b>Tu es à l'aise en anglais</b> <span>— pas besoin d'être bilingue, mais tu échanges sans problème à l'écrit et à l'oral avec une équipe internationale.</span></div></li>
           <li><span class="tick">✓</span><div><b>Tu connais le e-commerce</b> <span>— tu as déjà bossé dans ou avec une marque, une agence, ou tu as mené un side-project sérieux.</span></div></li>
-          <li><span class="tick">✓</span><div><b>L'IA t'intéresse vraiment</b> <span>— tu utilises déjà des outils IA, tu veux apprendre Claude Code et en faire un levier au quotidien.</span></div></li>
+          <li><span class="tick">✓</span><div><b>Tu utilises déjà l'IA</b> <span>— pas « ça m'intéresse » : tu t'en sers concrètement, tu sais ce qu'un bon prompt change, et tu veux passer au niveau au-dessus (Claude Code, agents, automatisations).</span></div></li>
           <li><span class="tick">✓</span><div><b>Tu es organisé·e et autonome</b> <span>— en remote, sur un poste aussi large, c'est non-négociable.</span></div></li>
           <li><span class="tick">✓</span><div><b>Tu es disponible maintenant</b> <span>— on cherche quelqu'un qui peut démarrer rapidement.</span></div></li>
           <li><span class="tick">✓</span><div><b>Tu cherches du long terme</b> <span>— tu veux construire, pas zapper dans six mois.</span></div></li>
@@ -646,7 +631,7 @@
         <li><span class="x">✕</span><div><b>Si tu veux une fiche de poste figée</b> — ici le périmètre bouge, certaines semaines ressemblent peu à la précédente.</div></li>
         <li><span class="x">✕</span><div><b>Si tu veux te spécialiser sur un seul canal</b> — c'est un poste de généraliste, pas un poste d'expert média ou de designer.</div></li>
         <li><span class="x">✕</span><div><b>Si tu as besoin qu'on te dise quoi faire toute la journée</b> — on accompagne beaucoup au début, mais on attend que tu prennes la main.</div></li>
-        <li><span class="x">✕</span><div><b>Si l'IA t'ennuie ou te fait peur</b> — c'est au cœur de la façon dont on travaille, tu passeras à côté du poste.</div></li>
+        <li><span class="x">✕</span><div><b>Si tu n'utilises pas encore l'IA au quotidien</b> — c'est au cœur de notre façon de travailler. On forme sur Claude Code, pas sur les bases.</div></li>
         <li><span class="x">✕</span><div><b>Si tu cherches une mission de quelques mois</b> — on investit sur toi, on veut construire sur plusieurs années.</div></li>
       </ul>
     </div>
@@ -749,8 +734,8 @@
         <div class="answer">Non. On ne cherche pas du C2. On cherche quelqu'un qui comprend les termes du métier en anglais et qui peut tenir une conversation pro à l'écrit et à l'oral avec une équipe internationale. Si tu hésites, postule quand même.</div>
       </details>
       <details class="qa">
-        <summary>Je ne connais pas Claude Code ni les outils IA. Je peux quand même postuler ?</summary>
-        <div class="answer">Oui, à condition que le sujet t'attire vraiment. On te forme, c'est prévu. Ce qu'on ne peut pas t'apprendre, c'est l'envie de creuser et de tester par toi-même. Si tu as déjà utilisé des outils IA, même basiques, et que tu veux aller plus loin, c'est le bon terrain.</div>
+        <summary>Je ne connais pas Claude Code. C'est bloquant ?</summary>
+        <div class="answer">Claude Code, non : on te forme, c'est prévu. En revanche, il faut déjà utiliser l'IA au quotidien et savoir t'en servir. On ne part pas de zéro sur ce sujet, c'est trop central dans notre façon de travailler. Si aujourd'hui tu ouvres ChatGPT ou Claude plusieurs fois par jour et que tu veux comprendre comment on automatise pour de vrai, tu es exactement au bon endroit.</div>
       </details>
       <details class="qa">
         <summary>Je débute en e-commerce mais j'ai vraiment envie d'apprendre. Je peux candidater ?</summary>
@@ -794,7 +779,7 @@
 <!-- ===================== WIRING ===================== -->
 <script>
   /* 1. URL du Typeform — remplace par l'URL de ton formulaire une fois créé */
-  var TYPEFORM_URL = "https://form.typeform.com/to/TYPEFORM_ID";
+  var TYPEFORM_URL = "https://form.typeform.com/to/tR1HYRlV";
 
   /* 2. Vidéo de présentation (optionnel) — colle l'URL d'embed Loom, ex :
         "https://www.loom.com/embed/xxxxxxxxxxxx?hideEmbedTopBar=true"
