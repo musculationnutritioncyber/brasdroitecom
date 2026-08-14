@@ -32,7 +32,6 @@ Déjà câblé dans `index.html` (variable `TYPEFORM_URL`).
 - [ ] **Notifications** — Settings → Notifications, vers ton email (ou brancher Google Sheets / Notion).
 - [ ] **Un passage de test complet** depuis un téléphone, pour vérifier que la fin normale redirige bien vers `/thank-you`.
 - [ ] **Un passage de test disqualifiant** (répondre « Non » à la question 1) → doit atterrir sur `/not-a-fit`, sans compter comme conversion.
-- [ ] Si le projet Vercel ne s'appelle pas `brasdroitecomus`, corriger les deux URL de redirection.
 
 ---
 
