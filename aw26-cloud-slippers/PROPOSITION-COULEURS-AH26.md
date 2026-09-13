@@ -1,4 +1,4 @@
-# Cloud Slippers — 8 nouvelles couleurs Automne/Hiver 26
+# Cloud Slippers — 9 nouvelles couleurs Automne/Hiver 26 + réassort
 
 Produit concerné : **Cloud Slippers** (`cloud-sock`) — le chausson barefoot en maille.
 8 couleurs actuelles : Black, Grey, Leopard Brown, Beige, Leopard Beige, Checkered,
@@ -8,7 +8,21 @@ Turquoise, White.
 
 ## 1. Ce que dit la data (12 mois, ventes réelles)
 
-### Sur le chausson lui-même — 2 498 paires
+### Sur le chausson lui-même — 2 498 paires… en 12 jours
+
+**Correction importante par rapport à ma première note :** ce produit n'a pas fait
+2 498 paires en 12 mois. Il les a faites **entre le 2 et le 13 septembre**. Il vient
+de scaler.
+
+| Jour | Paires |
+|---|---:|
+| 2 sept | 1 |
+| 4 sept | 114 |
+| 6 sept | 232 |
+| 8 sept | 189 |
+| 10 sept | 389 |
+| 11 sept | 441 |
+| 12 sept | **490** |
 
 | Couleur | Paires | Part |
 |---|---:|---:|
@@ -24,6 +38,23 @@ Turquoise, White.
 **Lecture :** neutres + léopard = **87 %** du volume. La seule vraie couleur pop
 (Turquoise) fait 5 %. Le blanc est le plus faible → ne pas rajouter d'off-white,
 même si le Pantone 2026 est un blanc cassé (« Cloud Dancer »).
+
+### Et l'état du stock au 13 septembre
+
+| Couleur | Part de la demande | Stock |
+|---|---:|---:|
+| Black | 32 % | **−406** |
+| Grey | 16 % | **+4** |
+| Leopard Brown | 15 % | **+22** |
+| Beige | 11 % | 122 |
+| Leopard Beige | 10 % | 143 |
+| Checkered | 5 % | 272 |
+| Turquoise | 5 % | 280 |
+| White | 4 % | 305 |
+
+Les 3 couleurs qui font **63 % de la demande** sont à zéro ou en négatif. Les 3 qui
+en font 14 % détiennent 857 paires. C'est le vrai sujet de cette commande, avant
+même les nouvelles couleurs.
 
 ### Sur la Cloud Walk Classic — l'édition hiver de la chaussure, 7 934 paires
 
@@ -108,6 +139,21 @@ On sait déjà faire un damier sur ce produit (Checkered), donc c'est une varian
 industrielle, pas un nouveau développement.
 → carreaux ~2 cm, col **noir uni**.
 
+**6bis. Grey Camo** · camouflage gris · jacquard tricoté
+Camouflage en **quatre gris uniquement** : blanc cassé, gris clair, gris moyen, anthracite.
+Taches organiques ~3-4 cm, bords doux, tricotées dans la maille.
+
+C'est l'idée qui a le meilleur appui dans la data de tout ce document : **les neutres
+à motif font 30 % du volume de ce produit** (Leopard Brown 15 % + Leopard Beige 10 %
++ Checkered 5 %). Ton acheteuse ne prend pas de couleur vive, mais elle prend du motif
+neutre. Le camo gris, c'est exactement ce comportement avec un look neuf.
+
+→ **Strictement en gris. Aucun vert, aucun kaki, aucun olive, aucun marron.** Un camo
+militaire classique tomberait pile sur vos deux pires couleurs.
+→ Le **Sand Camo** (crème / sable / taupe / espresso) est généré aussi si tu veux
+comparer, mais je ne le mettrais pas dans la même vague : il se marche dessus avec
+Beige + Leopard Beige. À garder pour le drop suivant si le gris marche.
+
 ### Tier 3 — les tests (200 paires chacune)
 
 **7. Nordic Fair Isle** · crème + rouge/navy/charbon · jacquard tricoté
@@ -135,36 +181,62 @@ Caramel, Houndstooth (pied-de-poule), maille torsadée écrue.
 
 ---
 
-## 4. La commande
+## 4. Halloween
 
-- Fichier : **`PO-CloudSlippers-AW26.xlsx`** (3 onglets : commande, ventilation par
-  taille, spécifications couleur)
-- Message prêt à envoyer : **`MESSAGE-USINE.md`**
-- **2 800 paires** au total — 3 × 500 + 3 × 300 + 2 × 200
+Le Cloud Pumpkin a été créé le **10 septembre**, il y a 3 jours. Il a fait **52 paires
+en 4 jours** (6 / 23 / 18 / 5), à 39,90 $, avec **zéro stock** — tout part en négatif.
 
-### La courbe de tailles
+Donc ça vit, mais il faut le remettre à l'échelle : ~20 paires/jour contre ~450 pour le
+Cloud Slippers. Halloween, c'est **4 % du volume du chausson**, et ça meurt le 31 octobre.
+Si la marchandise arrive le 1er octobre, tu as 30 jours de vente, puis 11 mois de stock mort.
 
-Construite sur les 2 498 paires réellement vendues sur ce produit sur 12 mois.
-C'est le point le plus important du document : une courbe plate ferait rester 40 %
-de la commande en stock.
+**Ce que je ferais :**
 
-| Taille | Part |
-|---|---:|
-| W5 / M3 | 3,3 % |
-| W6 / M4 | 3,1 % |
-| W7 / M5 | 7,6 % |
-| W7.5 / M5.5 | 8,7 % |
-| **W8-8.5 / M6-6.5** | **22,3 %** |
-| **W9-9.5 / M7-7.5** | **21,8 %** |
-| W10-10.5 / M8-8.5 | 15,1 % |
-| W11-11.5 / M9-9.5 | 8,4 % |
-| W12-12.5 / M10-10.5 | 5,2 % |
-| W13-13.5 / M11-11.5 | 2,1 % |
-| W14 / M12 | 2,3 % |
+1. **Pas de nouveaux motifs Halloween.** Tu en as déjà 8 en ligne. Sur les 52 paires,
+   Orange Pumpkin en fait 24 (46 %) et Mini Pumpkins 10. Les squelettes, araignées,
+   toiles et fantômes font 1 à 2 paires chacun. Recommande **Orange Pumpkin + Mini
+   Pumpkins uniquement**, ~400 et ~200 paires, et seulement si l'usine confirme le
+   1er octobre. Après le 5 octobre, ça ne vaut plus le coup.
 
-Les volumes se rescalent proportionnellement si tu veux monter ou descendre le total.
+2. **La leçon Saint-Valentin.** Le Cloud Walk Love a fait **3 916 paires**. Son n°1,
+   c'est « Red Valentine » — une **couleur portable** avec un clin d'œil au thème, pas
+   un imprimé costume. Les motifs littéraux (citrouilles, crânes) ne marchent pas sur
+   une acheteuse de 65 ans qui achète d'abord du confort.
+
+3. **Donc : Pumpkin Spice Orange** (`#C2622A`), un orange automne uni, sur la ligne
+   principale. Il fait le job Halloween en octobre **et reste vendable en novembre**
+   comme couleur d'automne. Généré, il est dans la galerie. C'est le seul « Halloween »
+   que je mettrais dans une commande de production.
 
 ---
+
+## 5. Les quantités — c'est là que ma première version était fausse
+
+J'avais dimensionné à 2 800 paires en croyant que le produit faisait ~200 paires/mois.
+Il en fait **450 par jour**. 2 800 paires, c'est **six jours de stock**.
+
+Le fichier `PO-CloudSlippers-AW26.xlsx` est refait avec trois curseurs en haut de
+l'onglet *Assumptions* — tu changes une cellule, tout le classeur se recalcule :
+
+| Curseur | Valeur par défaut |
+|---|---|
+| Cadence (paires/jour) | 450 |
+| Jours de couverture, vague 1 | 45 |
+| Part prise par les 9 nouvelles couleurs | 40 % |
+
+Ça donne **~20 250 paires** pour la vague 1 : ~11 000 de réassort sur les 8 couleurs
+existantes (dont ~4 300 de Black) et ~8 100 sur les 9 nouvelles.
+
+**Vague 1** livrée le 1er octobre → couvre jusqu'au 15 novembre.
+**Vague 2** commandée vers le 10 octobre sur les chiffres réels des nouvelles couleurs,
+livrée début novembre → couvre Black Friday et Noël.
+
+Si l'usine tourne vraiment en 3 semaines, c'est la bonne structure : tu ne paries pas
+2 000 paires par couleur à l'aveugle, tu poses 800-1 400, tu regardes, et tu réassortis
+les gagnantes avant le pic.
+
+**Le chiffre de 450/jour est le mien, pas le tien.** Il tient tant que ton budget pub
+tient. Si tu comptes réduire ou monter, change la cellule et le reste suit.
 
 ## 5. Sources marché
 

@@ -1,55 +1,63 @@
 # Message ready to send to the factory
 
-Attach: `PO-CloudSlippers-AW26.xlsx` + the 8 colourway renders.
+Attach: `PO-CloudSlippers-AW26.xlsx` + the colourway renders.
 
 ---
 
-**Subject: Cloud Slippers — 8 new colourways for Autumn/Winter (PO attached)**
+**Subject: Cloud Slippers — urgent restock + 9 new AW colourways (PO attached)**
 
 Hi,
 
-We would like to add **8 new colourways** to the Cloud Slippers style we are
-already running with you. **Nothing changes on the product itself** — same last,
-same knit construction, same sole unit, same insole, same sizing, same packaging
-and labelling. The colour / pattern is the only variable.
+Two things in one order, and the first one is urgent.
 
-Please find attached the purchase order with the full size breakdown per
-colourway (**2,800 pairs total**), plus a reference render for each colourway.
+**1. Restock of the colours already in production**
 
-**The 8 colourways**
+Our best-selling colours are out of stock and we are now selling on backorder.
+Black in particular is short by more than 400 pairs. The attached PO sheet
+*"1 - Restock URGENT"* has the quantities per colour and per size.
 
-| # | Colourway | Type | Target | Qty |
-|---|---|---|---|---|
-| 1 | Navy | solid | #1F2A44 — please match the navy already running on our Cloud Walk Classic | 500 |
-| 2 | Heather Grey Marl | marled yarn | light grey + mid grey + charcoal spun together (yarn effect, not a print) | 500 |
-| 3 | Espresso Brown | solid | #4A342A — dark chocolate, not tan, not caramel | 500 |
-| 4 | Terracotta | solid | #B0603C — warm burnt rust | 300 |
-| 5 | Burgundy Wine | solid | #6E2233 — blue-red, not orange-red | 300 |
-| 6 | Buffalo Check Red/Black | knitted jacquard | true red × black, ~2 cm squares, solid black collar | 300 |
-| 7 | Nordic Fair Isle | knitted jacquard | cream base, snowflake/diamond bands in red, navy, charcoal | 200 |
-| 8 | Forest Green | solid | #2C4A3B — deep blue-green pine | 200 |
+**2. Nine new Autumn/Winter colourways**
+
+**Nothing changes on the product itself** — same last, same knit construction,
+same sole unit, same insole, same sizing, same packaging and labelling. The
+colour / pattern is the only variable.
+
+| # | Colourway | Type | Target |
+|---|---|---|---|
+| 1 | Navy | solid | #1F2A44 — please match the navy already running on our Cloud Walk Classic |
+| 2 | Grey Camo | knitted jacquard | camo in FOUR GREYS ONLY: off-white, light grey, mid grey, charcoal |
+| 3 | Heather Grey Marl | marled yarn | light grey + mid grey + charcoal spun together (yarn effect, not a print) |
+| 4 | Espresso Brown | solid | #4A342A — dark chocolate, not tan, not caramel |
+| 5 | Terracotta | solid | #B0603C — warm burnt rust |
+| 6 | Burgundy Wine | solid | #6E2233 — blue-red, not orange-red |
+| 7 | Buffalo Check Red/Black | knitted jacquard | true red × black, ~2 cm squares, solid black collar |
+| 8 | Nordic Fair Isle | knitted jacquard | cream base, snowflake/diamond bands in red, navy, charcoal |
+| 9 | Forest Green | solid | #2C4A3B — deep blue-green pine |
 
 **Important points**
 
-1. **Lab dips before bulk** — 3 options per solid colour (target / lighter / darker).
-2. **Knitted strike-offs before bulk** on the three patterned colourways (#2, #6, #7).
+1. **Delivery target is 1 October 2026.** Please tell us straight away what you can
+   actually hit by that date and what would land later — we will split the order
+   rather than delay the whole thing. The restock is the priority if you have to choose.
+2. **Lab dips before bulk** — 3 options per solid colour (target / lighter / darker).
+3. **Knitted strike-offs before bulk** on the four patterned colourways (#2, #3, #7, #8).
    The patterns must be **knitted in**, not printed and not embroidered.
-3. **Forest Green must read as a deep blue-green.** Any drift to olive, khaki,
-   sage or army green will be rejected — those shades do not sell for us.
-4. **Colour fastness** on the dark shades (Navy, Espresso, Burgundy, Forest Green,
-   Buffalo Check): no crocking onto light flooring or onto socks.
-5. HEX values are the visual target for the yarn dye; Pantone TCX to be confirmed
-   on the approved lab dip.
+4. **Grey Camo must be strictly greyscale, and Forest Green must read as a deep
+   blue-green.** Any drift to olive, khaki, sage or army green will be rejected —
+   those shades do not sell for us.
+5. **Colour fastness** on the dark shades: no crocking onto light flooring or onto socks.
+6. HEX values are the visual target for the yarn dye; Pantone TCX to be confirmed on
+   the approved lab dip.
 
 **Please confirm by return**
 
 - Unit price per colourway
 - MOQ per colour and per size
 - Lab dip / strike-off lead time
-- Bulk lead time ex-works
+- Bulk lead time ex-works, and what is realistically achievable for 1 October
 
-We are aiming to have this in stock for the winter season, so the earlier we can
-close the lab dips the better.
+We expect to place a second, larger order in mid-October for the Black Friday and
+Christmas period, so please also let us know your capacity for a November delivery.
 
 Thank you,
 Nimbao

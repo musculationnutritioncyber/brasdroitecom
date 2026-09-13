@@ -33,3 +33,15 @@ Références produit importées dans Higgsfield (réutilisables) :
 5. Grey Marl : effet de fil chiné, pas un imprimé / camouflage / serpent.
 6. Buffalo Check : carreaux réguliers qui suivent la courbe, col noir uni.
 7. Fair Isle : jacquard tricoté, bout et talon crème unis.
+
+## Rendus complémentaires (vague 2)
+
+| # | Colorway | job_id | URL |
+|---|---|---|---|
+| 9 | Grey Camo | `251a1736-776d-4478-a6c6-420b805edf6f` | https://d8j0ntlcm91z4.cloudfront.net/user_34HVhzQLMiO5JLwTOcHKoalRcnN/hf_20260913_114014_251a1736-776d-4478-a6c6-420b805edf6f.png |
+| 10 | Sand Camo (alternative) | `79b78026-d429-4010-b568-95f16df05f13` | https://d8j0ntlcm91z4.cloudfront.net/user_34HVhzQLMiO5JLwTOcHKoalRcnN/hf_20260913_114013_79b78026-d429-4010-b568-95f16df05f13.png |
+| 11 | Pumpkin Spice Orange | `a5467dbc-a304-423c-8458-520def25bb47` | https://d8j0ntlcm91z4.cloudfront.net/user_34HVhzQLMiO5JLwTOcHKoalRcnN/hf_20260913_114014_a5467dbc-a304-423c-8458-520def25bb47.png |
+
+À vérifier en plus sur les camo : strictement gris (ou strictement neutres chauds pour
+le Sand), aucune dérive verte / kaki / militaire, taches organiques arrondies de ~3-4 cm
+et pas un motif trop petit qui ferait sale en vignette de pub.
