@@ -45,3 +45,25 @@ Références produit importées dans Higgsfield (réutilisables) :
 À vérifier en plus sur les camo : strictement gris (ou strictement neutres chauds pour
 le Sand), aucune dérive verte / kaki / militaire, taches organiques arrondies de ~3-4 cm
 et pas un motif trop petit qui ferait sale en vignette de pub.
+
+## Rendus vague 3 — la sélection motifs
+
+| # | Colorway | Statut | job_id | URL |
+|---|---|---|---|---|
+| 12 | Black Leopard | **retenu** | `24d60de0-e6e6-4cef-88a1-8d20f60d74db` | https://d8j0ntlcm91z4.cloudfront.net/user_34HVhzQLMiO5JLwTOcHKoalRcnN/hf_20260913_114818_24d60de0-e6e6-4cef-88a1-8d20f60d74db.png |
+| 13 | Grey Leopard | **retenu** | `20471d17-285b-45d4-95b0-2e1e1dfa47fc` | https://d8j0ntlcm91z4.cloudfront.net/user_34HVhzQLMiO5JLwTOcHKoalRcnN/hf_20260913_114818_20471d17-285b-45d4-95b0-2e1e1dfa47fc.png |
+| 14 | Cow Print | **retenu** | `b1931841-3a0b-41b2-ac15-a134fff1ba3f` | https://d8j0ntlcm91z4.cloudfront.net/user_34HVhzQLMiO5JLwTOcHKoalRcnN/hf_20260913_114818_b1931841-3a0b-41b2-ac15-a134fff1ba3f.png |
+| 15 | Houndstooth | **retenu** | `bafbb7d9-bce6-4ac6-9116-1193d7ca1322` | https://d8j0ntlcm91z4.cloudfront.net/user_34HVhzQLMiO5JLwTOcHKoalRcnN/hf_20260913_114818_bafbb7d9-bce6-4ac6-9116-1193d7ca1322.png |
+| 16 | Zebra | banc de touche | `6833a3fe-3fd8-4cba-abf9-afa1fb3a1e72` | https://d8j0ntlcm91z4.cloudfront.net/user_34HVhzQLMiO5JLwTOcHKoalRcnN/hf_20260913_114818_6833a3fe-3fd8-4cba-abf9-afa1fb3a1e72.png |
+
+Sortis de la commande (rendus conservés) : Terracotta, Burgundy Wine, Forest Green,
+Nordic Fair Isle, Espresso Brown, Sand Camo.
+
+### À vérifier sur les motifs
+
+- **Black Leopard / Grey Leopard** : la rosette doit être la MÊME que le Leopard Brown
+  existant, même taille. Si le modèle a redessiné des taches plus petites ou plus rondes,
+  c'est à refaire — c'est tout l'intérêt de ces deux SKU.
+- **Grey Leopard / Grey Camo** : zéro brun, zéro vert.
+- **Cow Print** : grosses taches espacées, pas un semis de petits points.
+- **Houndstooth** : motif lisible à 2,5-3 cm, pas un micro pied-de-poule.
