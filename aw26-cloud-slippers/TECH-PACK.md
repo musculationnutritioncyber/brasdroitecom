@@ -93,7 +93,7 @@ a yarn change. Please quote it separately from the jacquards.*
 
 ## 5. Navy
 
-**References** — [product render](https://d8j0ntlcm91z4.cloudfront.net/user_34HVhzQLMiO5JLwTOcHKoalRcnN/hf_20260913_113357_17d3911f-789e-454c-bdb8-cf875e71aadc.png) · no swatch needed, this is a plain solid: match our existing Cloud Walk Classic navy
+**References** — [product render](https://d8j0ntlcm91z4.cloudfront.net/user_34HVhzQLMiO5JLwTOcHKoalRcnN/hf_20260913_113357_17d3911f-789e-454c-bdb8-cf875e71aadc.png) · [fabric swatch](https://d8j0ntlcm91z4.cloudfront.net/user_34HVhzQLMiO5JLwTOcHKoalRcnN/hf_20260913_120303_c391b2fa-fa3c-4d02-9c1d-e1f78543dfce.png) — plain solid, so the swatch is indicative only: match our existing Cloud Walk Classic navy
 
 | | |
 |---|---|
